@@ -2,7 +2,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/kayrlas/ArduinoSerialComWPF.svg)](https://github.com/kayrlas/ArduinoSerialComWPF/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/kayrlas/ArduinoSerialComWPF.svg)](https://github.com/kayrlas/ArduinoSerialComWPF/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/kayrlas/ArduinoSerialComWPF.svg)](https://github.com/kayrlas/ArduinoSerialComWPF/issues)
-[![GitHub license](https://img.shields.io/github/license/kayrlas/ArduinoSerialComWPF.svg)](https://github.com/kayrlas/ArduinoSerialComWPF/blob/master/LICENSE)  
+[![GitHub license](https://img.shields.io/github/license/kayrlas/ArduinoSerialComWPF.svg)](https://github.com/kayrlas/ArduinoSerialComWPF/blob/master/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/kayrlas/ArduinoSerialComWPF?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fkayrlas%2FArduinoSerialComWPF)  
 Using WPF like a serial monitor of Arduino IDE.
 ## ArduinoSerialComWPF (WPF code)
 - Select a serial port from a combo box.
